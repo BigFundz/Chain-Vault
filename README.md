@@ -43,10 +43,10 @@ cd Chain-Vault
 ## Development Roadmap
 
 - [x] Core banking Smart Contract
-- [] Enhanced security modules
-- [] Frontend Wallet integration
-- [] Multi-chain compatibility
-- [] Advanced DeFi features
+- [-] Enhanced security modules
+- [-] Frontend Wallet integration
+- [-] Multi-chain compatibility
+- [-] Advanced DeFi features
 
 ## Security Principles
 
